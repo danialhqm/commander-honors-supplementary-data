@@ -8,7 +8,7 @@ A guide to navigating the folders is seen below.
 
 2) Alphafold3 Outputs
 - This folder contains .cif files and other outputs from Alphafold3. PyMol is recommended for visualisation.
-# At time of writing, this folder is incomplete, due to issues uploading larger files. This repository is currently missing AF3 outputs for CCDC22, CCDC93, VPS29, VPS26C, VPS35L, subcomplex and full complex. 
+<code style="color : cyan">At time of writing, this folder is incomplete, due to issues uploading larger files. This repository is currently missing AF3 outputs for CCDC22, CCDC93, VPS29, VPS26C, VPS35L, subcomplex and full complex. </code>
 
 3) FoldMason JSON
 - This folder contains JSON files for FoldMason multiple structural alignment. Files can be imported and viewed at https://search.foldseek.com/foldmason
