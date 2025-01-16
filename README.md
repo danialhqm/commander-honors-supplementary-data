@@ -9,7 +9,8 @@ A guide to navigating the folders is seen below.
 2) Alphafold3 Outputs
 - This folder contains .cif files and other outputs from Alphafold3. PyMol is recommended for visualisation.
 ```diff
-- At time of writing, this folder is incomplete, due to issues uploading larger files. This repository is currently missing AF3 outputs for CCDC22, CCDC93,  VPS35L, subcomplex and full complex.
+- At time of writing, this folder is incomplete, due to issues uploading larger files. 
+This repository is currently missing AF3 outputs for CCDC22, CCDC93,  VPS35L, subcomplex and full complex.
 ```
 
 3) FoldMason JSON
